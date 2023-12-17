@@ -10,7 +10,7 @@ redirect_from:
 
 ## Research Interests
 
-I am interested in Noncommutative Geometry and Dynamics. My current research is in étale groupoids and their C*-algebras, as well as analysis of noncommutative Cartan pairs. In particular I have focussed on non-Hausdorff groupoids and the respective C*-algebraic structures, as well as studying functoriality for the groupoid C*-algebra construction.
+I am interested in Noncommutative Geometry and Dynamics. My current research is in étale groupoids and their C\*-algebras, as well as analysis of noncommutative Cartan pairs. In particular, I have focussed on non-Hausdorff groupoids and the respective C\*-algebraic structures, as well as studying functoriality for the groupoid C\*-algebra construction.
 
 Another interest of mine is in the noncommutative Stone duality and geometric semigroup theory, as well as dynamics of these objects acting on C*-algebras.
 
