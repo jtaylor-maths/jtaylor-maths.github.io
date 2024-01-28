@@ -10,11 +10,18 @@ redirect_from:
 
 ## Research Interests
 
-I am interested in Noncommutative Geometry and Dynamics. My current research is in étale groupoids and their C\*-algebras, as well as analysis of noncommutative Cartan pairs. In particular, I have focussed on non-Hausdorff groupoids and the respective C\*-algebraic structures, as well as studying functoriality for the groupoid C\*-algebra construction.
+I am broadly interested in C\*-algebras arising from algebraic objects and dynamical systems, as well as the broader category theoretic structures surrounding them. Some more specific interests include:
+- analysis and classification of inclusions of C\*-algebras;
+- Fell bundles over étale non-Hausdorff groupoids and their C\*-algebras;
+- inverse semigroup actions and their crossed products, noncommutative dynamical systems;
+- geometric semigroup theory and non-commutative Stone duality;
+- functoriality for C\*-algebra constructions.
 
-Another interest of mine is in the noncommutative Stone duality and geometric semigroup theory, as well as dynamics of these objects acting on C*-algebras.
+My previous research projects focus heavily on the analysis of groupoid \(C^*\)-algebras, including classifying inclusions of regular maximal commutative \(C^*\)-subalgebras (called essential Cartan inclusions) with detection of ideals as groupoid C\*-algebras.
+This expands upon the results of Renault and Kumjian using a different approach to Exel and Pitts with different advantages.
+Another major project was describing morphisms between étale groupoids that induce \*-homomorphisms between the C\*-algebras of the groupoids.
+This research frames entwining of conditional expectations and injectivity of the induced homomorphisms on the level of groupoids, as well showing that all homomorphisms between essential Cartan pairs that preserve the Cartan structure must arise from morphisms between the underlying groupoids.
 
-Previously I have worked on computation of KK-theory for graph C*-algebras and more generally Cuntz-Pimsner algebras of graded Hilbert bimodules, using a generalised version of Pimsner’s 6-term exact sequence from Kumjian, Pask, and Sims. This work is related to my Honours thesis and was later published with Quinn Patterson, Adam Sierakowski, and Aidan Sims.
 
 ## Professional Affiliations
 
