@@ -7,3 +7,6 @@ venue: 'arXiv Preprint'
 citation: ' Jonathan Taylor, &quot;Essential commutative Cartan subalgebras of $C^*$-algebras.&quot; arXiv Preprint, 2023.'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Essential+commutative+Cartan+subalgebras+of+$C^*$+algebras){:target="_blank"} for full citation
+
+Links to article:
+- [arXiv](https://arxiv.org/abs/2206.09634)
