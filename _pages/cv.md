@@ -11,30 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Mathematics, University of Wollongong, Wollongong, July 2018
+* Bachelor of Mathematics (Honours), University of Wollongong, July 2019
+  * Thesis: (Up)Graded K-homology for Graph Algebras
+  * Supervisors: Snr. Prof. Aidan Sims, Dr. Adam Sierakowski
+* Doctorate of Mathematics (PhD), Georg-August-Universität Göttingen, September 2022
+  * Thesis: Aperiodic Dynamical Inclusions of C\*-algebras [link](https://ediss.uni-goettingen.de/handle/11858/14517)
 
-Work experience
+Employment
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* October 2022 - September 2023: Postdoctoral researcher (Wissenschaftlicher Mitarbeiter)
+  * University of Göttingen
+  * Postdoctoral mentor: Prof. Dr. Ralf Meyer
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* October 2023 - Present: Postdoctoral researcher (Wissenschaftlicher Mitarbeiter)
+  * University of Potsdam
+  * Postdoctoral mentor: Prof. Dr. Sven Raum
+
+Research interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+I am broadly interested in C\*-algebras arising from algebraic objects and dynamical systems, as well as the broader category theoretic structures surrounding them. Some more specific interests include:
+- analysis and classification of inclusions of C\*-algebras;
+- Fell bundles over étale non-Hausdorff groupoids and their C\*-algebras;
+- inverse semigroup actions and their crossed products, noncommutative dynamical systems;
+- geometric semigroup theory and non-commutative Stone duality;
+- functoriality for C\*-algebra constructions.
+
+My previous research projects focus heavily on the analysis of groupoid \(C^*\)-algebras, including classifying inclusions of regular maximal commutative \(C^*\)-subalgebras (called essential Cartan inclusions) with detection of ideals as groupoid C\*-algebras.
+This expands upon the results of Renault and Kumjian using a different approach to Exel and Pitts with different advantages.
+Another major project was describing morphisms between étale groupoids that induce \*-homomorphisms between the C\*-algebras of the groupoids.
+This research frames entwining of conditional expectations and injectivity of the induced homomorphisms on the level of groupoids, as well showing that all homomorphisms between essential Cartan pairs that preserve the Cartan structure must arise from morphisms between the underlying groupoids.
 
 Publications
 ======
@@ -42,18 +48,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
