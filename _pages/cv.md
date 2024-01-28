@@ -37,7 +37,7 @@ I am broadly interested in C\*-algebras arising from algebraic objects and dynam
 - geometric semigroup theory and non-commutative Stone duality;
 - functoriality for C\*-algebra constructions.
 
-My previous research projects focus heavily on the analysis of groupoid \(C^*\)-algebras, including classifying inclusions of regular maximal commutative \(C^*\)-subalgebras (called essential Cartan inclusions) with detection of ideals as groupoid C\*-algebras.
+My previous research projects focus heavily on the analysis of groupoid C\*-algebras, including classifying inclusions of regular maximal commutative C\*-subalgebras (called essential Cartan inclusions) with detection of ideals as groupoid C\*-algebras.
 This expands upon the results of Renault and Kumjian using a different approach to Exel and Pitts with different advantages.
 Another major project was describing morphisms between étale groupoids that induce \*-homomorphisms between the C\*-algebras of the groupoids.
 This research frames entwining of conditional expectations and injectivity of the induced homomorphisms on the level of groupoids, as well showing that all homomorphisms between essential Cartan pairs that preserve the Cartan structure must arise from morphisms between the underlying groupoids.
