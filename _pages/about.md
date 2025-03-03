@@ -8,13 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-### Announcement
-
-I recently learnt that I had my contact email address on this website had a typo, and so I was not reachable on that address for anyone who has tried to contact me since this version of my website has been active (approx. Oct. 2023 to Jan 2025).
-I have updated the address on this site since then, as well as set up an alias to receive emails from to that address as of 6th January 2025.
-Essentially this means that if you had my previous address from this site as my contact, you can now reach me with it.
-If you tried to contact me sometime in that time via email, I am sorry, I didn't get your message.
-
 ## Research Interests
 
 I am broadly interested in C\*-algebras arising from algebraic objects and dynamical systems, as well as the broader category theoretic structures surrounding them. Some more specific interests include:
