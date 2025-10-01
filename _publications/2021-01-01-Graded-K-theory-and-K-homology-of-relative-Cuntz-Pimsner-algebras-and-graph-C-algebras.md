@@ -1,6 +1,7 @@
 ---
 title: "Graded K-theory and K-homology of relative Cuntz--Pimsner algebras and graph C*-algebras"
 collection: publications
+authors: 'Quinn Patterson,  Adam Sierakowski,  Aidan Sims,  Jonathan Taylor'
 permalink: /publication/2021-01-01-Graded-K-theory-and-K-homology-of-relative-Cuntz-Pimsner-algebras-and-graph-C-algebras
 date: 2021-01-01
 venue: 'Journal of Mathematical Analysis and Applications'

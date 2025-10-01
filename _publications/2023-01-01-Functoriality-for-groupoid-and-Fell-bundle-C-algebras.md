@@ -1,6 +1,7 @@
 ---
 title: "Functoriality for groupoid and Fell bundle $C^*$-algebras"
 collection: publications
+authors: 'Jonathan Taylor'
 permalink: /publication/2023-01-01-Functoriality-for-groupoid-and-Fell-bundle-C-algebras
 date: 2023-01-01
 venue: 'arXiv Preprint'

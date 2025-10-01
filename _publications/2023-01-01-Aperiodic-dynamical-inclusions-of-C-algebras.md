@@ -1,6 +1,7 @@
 ---
 title: "Aperiodic dynamical inclusions of $C^*$-algebras"
 collection: publications
+authors: 'Jonathan Taylor'
 permalink: /publication/2023-01-01-Aperiodic-dynamical-inclusions-of-C-algebras
 date: 2023-01-01
 venue: 'arXiv Preprint'

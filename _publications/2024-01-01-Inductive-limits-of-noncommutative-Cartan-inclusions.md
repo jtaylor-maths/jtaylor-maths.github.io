@@ -1,6 +1,7 @@
 ---
 title: "Inductive limits of noncommutative Cartan inclusions"
 collection: publications
+authors: 'Jonathan Taylor'
 permalink: /publication/2024-01-01-Inductive-limits-of-noncommutative-Cartan-inclusions
 date: 2024-01-01
 venue: 'Proceedings of the American Mathematical Society'
