@@ -7,7 +7,6 @@ date: 2023-01-01
 venue: 'Mathematica Scandinavica, 2025'
 citation: ' Jonathan Taylor, &quot;Essential commutative Cartan subalgebras of $C^*$-algebras.&quot; Mathematica Scandinavica, 2025.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Essential+commutative+Cartan+subalgebras+of+$C^*$+algebras){:target="_blank"} for full citation
 
 Links to article:
 - [arXiv](https://arxiv.org/abs/2206.09634)
