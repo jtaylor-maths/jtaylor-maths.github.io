@@ -117,6 +117,14 @@ for pubsource in publist:
             
             md += """collection: """ +  publist[pubsource]["collection"]["name"]
 
+            md += """\nauthors: """
+            auth_count = 0
+            for author in bibdata.entries[bib_id].persons["author"]:
+                if auth_count > 0:
+                    md += ", "
+                md += html_escape(author.first_names[0]+" "+author.last_names[0])
+                auth_count += 1
+
             md += """\npermalink: """ + publist[pubsource]["collection"]["permalink"]  + html_filename
             
             note = False
@@ -134,6 +142,12 @@ for pubsource in publist:
                 if len(str(b["url"])) > 5:
                     md += "\npaperurl: '" + b["url"] + "'"
                     url = True
+    
+            arXiv_link = False
+            if "arxiv_link" in b.keys():    
+                if len(str(b["arxiv_link"])) > 5:
+                    md += "\narxivurl: '" + b["arxiv_link"] + "'"
+                    arXiv_link = True
 
             md += "\ncitation: '" + html_escape(citation) + "'"
 
@@ -144,10 +158,12 @@ for pubsource in publist:
             if note:
                 md += "\n" + html_escape(b["note"]) + "\n"
 
+            md += "\nLinks to article:"
             if url:
-                md += "\n[Access paper here](" + b["url"] + "){:target=\"_blank\"}\n" 
-            else:
-                md += "\nUse [Google Scholar](https://scholar.google.com/scholar?q="+html.escape(clean_title.replace("-","+"))+"){:target=\"_blank\"} for full citation"
+                md += "\n- [URL](" + b["url"] + "){:target=\"_blank\"}"
+
+            if arXiv_link:
+                md += "\n- [arXiv](" + b["arxiv_link"] + "){:target=\"_blank\"}"
 
             md_filename = os.path.basename(md_filename)
 
